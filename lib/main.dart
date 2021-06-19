@@ -6,7 +6,7 @@ void main(){
 
   return runApp(Calculator());
 }
-
+//MY first flutter project followed a youtube tutorial.
 String input= '', value= '', resultfinal= '';
 int value1, value2, result;
 int pressequal= 0, presskey=0, operator = 0, activity = 0;
